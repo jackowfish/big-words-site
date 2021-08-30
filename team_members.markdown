@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Members
-permalink: /project/
+permalink: /team_members/
 ---
 
 ### Jack Decker
@@ -11,4 +11,8 @@ permalink: /project/
 [jack@unc.edu](mailto:jack@unc.edu)
 
 [Github](github.com/jackowfish)
+
+### Ashley Wortham
+
+### Lianna Goehring
 
