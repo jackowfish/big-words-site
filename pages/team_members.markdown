@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Team Members
-permalink: /team_members/
+title: Team
+permalink: /team/
+order: 2
 ---
 
 *Click **[here](mailto:jack@unc.edu,awortham@live.unc.edu,liannag@live.unc.edu)** to email all of us!*
