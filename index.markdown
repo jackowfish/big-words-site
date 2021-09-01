@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<p align="center">
+  <img src="./static/BigWords.png" />
+</p>
