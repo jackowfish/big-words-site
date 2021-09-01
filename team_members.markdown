@@ -4,7 +4,7 @@ title: Team Members
 permalink: /team_members/
 ---
 
-*Click **[here](mailto:jack@unc.edu,awortham@live,unc.edu,liannag@live.unc.edu)** to email all of us!*
+*Click **[here](mailto:jack@unc.edu,awortham@live.unc.edu,liannag@live.unc.edu)** to email all of us!*
 
 ### Jack Decker
 
@@ -12,7 +12,7 @@ permalink: /team_members/
 
 [Email](mailto:jack@unc.edu)
 
-[Github](github.com/jackowfish)
+[Github](https://www.github.com/jackowfish)
 
 [LinkedIn](https://www.linkedin.com/in/jackdeckere/)
 
@@ -20,9 +20,9 @@ permalink: /team_members/
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E03AQHqYAvs73llKQ/profile-displayphoto-shrink_400_400/0/1598405568413?e=1635984000&v=beta&t=glpHYU19p4Lsm17l1nGuyNP7kkP9SThmTIeHwBet80I" alt="Image of Ashley Wortham" style="zoom:50%;" />
 
-[Email](mailto:awortham@live,unc.edu)
+[Email](mailto:awortham@live.unc.edu)
 
-[Github](github.com/ashleywortha)
+[Github](https://www.github.com/ashleywortha)
 
 [LinkedIn](https://www.linkedin.com/in/ashley-wortham-5a9b461b3/)
 
@@ -32,7 +32,7 @@ permalink: /team_members/
 
 [Email](mailto:liannag@live.unc.edu)
 
-[Github](github.com/liannagoehring)
+[Github](https://www.github.com/liannagoehring)
 
 [LinkedIn](https://www.linkedin.com/in/lianna-goehring-a19448183/)
 
