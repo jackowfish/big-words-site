@@ -25,13 +25,19 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Build settings
 theme: minima
-# theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
 domain: jackowfish.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://jackowfish.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /big-words-site/  
+
+header_pages:
+  - pages/project.markdown
+  - pages/team_members.markdown
+  - pages/journal.markdown
+  - pages/deliverables.markdown
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

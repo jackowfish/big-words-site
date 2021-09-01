@@ -2,7 +2,6 @@
 layout: page
 title: Deliverables
 permalink: /deliverables/
-order: 3
 ---
 - [x] [web site](https://jackowfish.github.io/big-words-site/)
 - [x] [project management approach](https://jackowfish.github.io/big-words-site/2021/08/30/Project-Management-Approach.html)
