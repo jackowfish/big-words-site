@@ -21,7 +21,8 @@
 title: BigWords
 timezone: America/New_York
 description: >- # this means to ignore newlines until "baseurl:"
-  This will be the description for our project
+  BigWords is a *wordometer* – a pedometer for words that could do for story time what FitBit did for walking. 
+  Bigwords aims to equip parents with the tools need to prepare them to expose their children to language effectively.
 
 # Build settings
 theme: minima
