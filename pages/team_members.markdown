@@ -26,11 +26,11 @@ permalink: /team/
         <a href="https://www.github.com/jackowfish">Github</a>
         <a href="https://www.linkedin.com/in/jackdeckere/">LinkedIn</a>
         <br>
-        <h4>
+        <p>
             Project Manager <br>
             Webmaster <br>
             Backend Lead
-        </h4>
+        </p>
     </div>
   </div>
   <div class="column">
@@ -41,11 +41,11 @@ permalink: /team/
         <a href="https://www.github.com/ashleywortha">Github</a>
         <a href="https://www.linkedin.com/in/ashley-wortham-5a9b461b3/">LinkedIn</a> 
         <br>
-        <h4>
+        <p>
             Client Manager <br>
             Design Lead <br>
             Backend Assistant 
-        </h4>
+        </p>
     </div>
   </div>
   <div class="column">
@@ -56,11 +56,11 @@ permalink: /team/
         <a href="https://www.github.com/liannagoehring">Github</a>
         <a href="https://www.linkedin.com/in/lianna-goehring-a19448183/">LinkedIn</a>
         <br>
-        <h4> 
+        <p> 
             Infrastructure Lead <br>
             Tech Lead <br>
             Frontend Lead 
-        </h4>
+        </p>
     </div>
   </div>
 </div>
