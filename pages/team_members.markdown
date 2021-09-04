@@ -25,6 +25,12 @@ permalink: /team/
         <a href="mailto:jack@unc.edu">Email</a>
         <a href="https://www.github.com/jackowfish">Github</a>
         <a href="https://www.linkedin.com/in/jackdeckere/">LinkedIn</a>
+        <br>
+        <h4>
+            Project Manager <br>
+            Webmaster <br>
+            Backend Lead
+        </h4>
     </div>
   </div>
   <div class="column">
@@ -33,7 +39,13 @@ permalink: /team/
     <div>
         <a href="mailto:awortham@live.unc.edu">Email</a>
         <a href="https://www.github.com/ashleywortha">Github</a>
-        <a href="https://www.linkedin.com/in/ashley-wortham-5a9b461b3/">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/ashley-wortham-5a9b461b3/">LinkedIn</a> 
+        <br>
+        <h4>
+            Client Manager <br>
+            Design Lead <br>
+            Backend Assistant 
+        </h4>
     </div>
   </div>
   <div class="column">
@@ -43,6 +55,12 @@ permalink: /team/
         <a href="mailto:liannag@live.unc.edu">Email</a>
         <a href="https://www.github.com/liannagoehring">Github</a>
         <a href="https://www.linkedin.com/in/lianna-goehring-a19448183/">LinkedIn</a>
+        <br>
+        <h4> 
+            Infrastructure Lead <br>
+            Tech Lead <br>
+            Frontend Lead 
+        </h4>
     </div>
   </div>
 </div>
