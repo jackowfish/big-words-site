@@ -65,3 +65,13 @@ permalink: /team/
   </div>
 </div>
 
+<div class="column">
+    <h3>Team Rules</h3>
+    <ul>
+        <li>If a team member must miss a scheduled meeting, they should notify all teammates 24 hours prior to the meeting. In addition, if the meeting is with a client or mentor, they should also notify them 24 hours in advance. If more than one teammate cannot attend a meeting, rescheduling the meeting will be discussed.</li>
+        <li>Team members should communicate frequently in the BigWords group chat and keep their progress up to date on the group’s Trello board so other teammates know the status of each designated task.</li>
+        <li>Be clear with variable names used while coding and make sure to comment frequently so other group members, clients, and future programmers can understand what the code is doing. </li>
+        <li>For git collaboration, we will use a centralized git workflow. Feature branches will be created if needed. When someone is going to push a big commit, they can message in the BigWords group chat to let other group members know.</li>
+    </ul>
+    Note: All team rules are subject to change throughout the course of the semester with approval from all team members. 
+</div>
