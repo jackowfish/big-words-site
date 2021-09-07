@@ -65,7 +65,7 @@ permalink: /team/
   </div>
 </div>
 
-<div class="column">
+<div class="row">
     <h3>Team Rules</h3>
     <ul>
         <li>If a team member must miss a scheduled meeting, they should notify all teammates 24 hours prior to the meeting. In addition, if the meeting is with a client or mentor, they should also notify them 24 hours in advance. If more than one teammate cannot attend a meeting, rescheduling the meeting will be discussed.</li>
