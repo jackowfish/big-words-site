@@ -2,6 +2,7 @@
 layout: post
 title:  "User Stories"
 date:   2021-09-12 22:22:20 -0500
+author: "Team G"
 ---
 We used [this document](https://docs.google.com/document/d/1Ov7yP3klnG3QNDZsezzty-ws3iLQHAU7FfO4nqLQJB8/edit) created in collaboration with our client to write the following user stories, organized into categories 'need-to-have' and 'nice-to-have'.
 

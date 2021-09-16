@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "First Meeting Notes"
+title:  "First Week Update"
 date:   2021-09-02 12:25:20 -0500
+author: "Jack Decker"
 ---
 Had our first meetings with our client and mentor this week!
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Project Management Approach"
 date:   2021-08-30 13:37:20 -0500
+author: "Team G"
 ---
 The product management approach our team uses is a Kanban style [Trello board](https://trello.com/b/44ptFkKT/kanban-board).
 
