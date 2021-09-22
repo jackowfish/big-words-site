@@ -7,7 +7,7 @@ permalink: /deliverables/
 - [x] [project management approach](https://jackowfish.github.io/big-words-site/2021/08/30/Project-Management-Approach.html)
     - [Trello board link](https://trello.com/b/44ptFkKT/kanban-board) *not a public link*
 - [x] [user stories](https://jackowfish.github.io/big-words-site/2021/09/12/User-Stories.html)
-- [x] [clickable prototype](https://www.figma.com/proto/8GEqDiy5R15fPxtbBRH6uY/Mobile-Clickable-Prototype?node-id=27%3A1132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=27%3A1132)
+- [x] [clickable prototype](https://www.figma.com/proto/8GEqDiy5R15fPxtbBRH6uY/Mobile-Clickable-Prototype?node-id=27%3A1132&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=27%3A1132) - [9/22: updated clickable prototype](https://www.figma.com/proto/s9qdoNOYRWrwia0S9R67ex/Prototype-Update?node-id=5%3A4225&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A4225) (based on client feedback)
 - [ ] APPLES reflection 1
 - [ ] application architecture
 - [ ] walking skeleton
