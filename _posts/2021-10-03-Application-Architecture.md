@@ -54,7 +54,7 @@ author: "Team G"
      * Cons: may need to change to a paid tier depending on usage, unfamiliarity using Heroku among teammates.
 4. *Rationale*: We decided to use Firebase Hosting since it is a free, secure, fully-managed hosting service for static and dynamic content as well as microservices. Firebase also has seamless integration with cloud functions and Firestore, a flexible, scalable NoSQL cloud database to store and sync data for client- and server-side development.
 
-Firebase Cloud Functions
+**Firebase Cloud Functions**
 
 *Summary*: In order to allow our user to easily input book data to our database, we decided to use Firebase Cloud Functions.
 
