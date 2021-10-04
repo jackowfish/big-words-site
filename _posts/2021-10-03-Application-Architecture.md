@@ -5,7 +5,7 @@ date:   2021-10-03 21:48:00 -0500
 author: "Team G"
 ---
 
-**List of Architectural Designs**
+**List of Architectural Decisions**
 
 * Languages/Libraries: *Javascript, React.js*
 * Backend Service: *Firebase Cloud Functions*
