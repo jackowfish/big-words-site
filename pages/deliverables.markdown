@@ -13,7 +13,7 @@ permalink: /deliverables/
 - [x] [application architecture](https://jackowfish.github.io/big-words-site/2021/10/03/Application-Architecture.html)
 - [x] [architecture diagram](https://drive.google.com/file/d/1xZ34oV8ZcmgT-18Jw9oZuGVB4lBdZqQu/view?usp=sharing)
 - [x] [walking skeleton](https://bigwords-202f6.web.app/#/) 
-    - note: resize browser window to fit mobile, as our client would like us to focus on the mobile version of the web application first
+    - note: resize browser window or view on mobile, as our client would like us to focus on the mobile version of the web application first
 - [x] [midterm presentation](https://docs.google.com/presentation/d/1o_ja1tCzVH9lEVo4OPFYnf-Rdz9RUhAi3x0N0QerEys/edit?usp=sharing)
 - [ ] tech talk
 - [ ] test coverage report
