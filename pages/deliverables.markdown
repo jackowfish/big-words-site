@@ -3,6 +3,7 @@ layout: page
 title: Deliverables
 permalink: /deliverables/
 ---
+Weekly demo videos can be found [here](https://jackowfish.github.io/big-words-site/2021/11/01/Demo-Videos.html).
 - [x] [web site](https://jackowfish.github.io/big-words-site/)
 - [x] [project management approach](https://jackowfish.github.io/big-words-site/2021/08/30/Project-Management-Approach.html)
     - [Trello board link](https://trello.com/b/44ptFkKT/kanban-board) *not a public link*
