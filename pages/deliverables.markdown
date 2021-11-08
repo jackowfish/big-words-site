@@ -17,7 +17,7 @@ Weekly demo videos can be found [here](https://jackowfish.github.io/big-words-si
     - note: resize browser window or view on mobile, as our client would like us to focus on the mobile version of the web application first
 - [x] [midterm presentation](https://docs.google.com/presentation/d/1o_ja1tCzVH9lEVo4OPFYnf-Rdz9RUhAi3x0N0QerEys/edit?usp=sharing)
 - [ ] tech talk
-- [ ] test coverage report
+- [x] [test coverage report](https://jackowfish.github.io/big-words-site/2021/11/08/Test-Coverage-Report.html)
 - [ ] developer README
 - [ ] client-oriented overview
 - [ ] APPLES reflection 2
