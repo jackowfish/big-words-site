@@ -19,7 +19,7 @@ Weekly demo videos can be found [here](https://jackowfish.github.io/big-words-si
 - [x] [tech talk](https://docs.google.com/presentation/d/1WLR5hGQiySvypZziQL5UFeyFCEaOSAyp4v0ugGUcXXw/edit#slide=id.p)
 - [x] [test coverage report](https://jackowfish.github.io/big-words-site/2021/11/08/Test-Coverage-Report.html)
 - [x] [developer README](https://jackowfish.github.io/big-words-site/2021/11/14/Developer-README.html)
-- [x] client-oriented overview
-- [ ] APPLES reflection 2
+- [x] [client-oriented overview](https://jackowfish.github.io/big-words-site/2021/11/21/Client-Oriented-Overview.html)
+- [x] [APPLES reflection 2](https://jackowfish.github.io/big-words-site/2021/11/21/Apples-Reflection-2.html)
 - [ ] personal report
 - [ ] final presentation
