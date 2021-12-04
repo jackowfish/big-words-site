@@ -21,5 +21,4 @@ Weekly demo videos can be found [here](https://jackowfish.github.io/big-words-si
 - [x] [client-oriented overview](https://jackowfish.github.io/big-words-site/2021/11/21/Client-Oriented-Overview.html)
 - [x] [APPLES reflection 2](https://jackowfish.github.io/big-words-site/2021/11/21/Apples-Reflection-2.html)
 - [x] personal report
-- [ ] final presentation
-    -  https://bigwords-202f6.web.app/#/
+- [x] [final presentation](https://docs.google.com/presentation/d/1wzSwMhIzi6H0rkUYVgML6oCDdrSqJhstA7nL9c20vw0/edit?usp=sharing)
