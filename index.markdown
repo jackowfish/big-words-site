@@ -10,3 +10,6 @@ layout: page
 <p align="center">
   This site was created to contain relevant information, deliverables, and updates regarding the BigWords project for <a href="https://comp523.cs.unc.edu">COMP 523: Software Engineering</a> at UNC-Chapel Hill.
 </p>
+<p align="center">
+  Finished project can be found <a href="https://bigwords-202f6.web.app/#/">here</a>.
+</p>
